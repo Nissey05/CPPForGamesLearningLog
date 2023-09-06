@@ -10,15 +10,15 @@ redirect_from:
 
 ## Introduction
 
-<!---
-Introduce yourself, who are you? Where are you from? Why do you want to be a game programmer? What got you interested in game development? For example, you could tell about the moment in your life that you realized that you wanted to be a game programmer. 
--->
+Yo, I'm Nils. I am from the Netherlands and I want to be a Game Programmer. I have always had an interest in Programming, whether it was through an Arduino, LEGO Mindstorms or a Rasphberry PI. However I knew I wanted to become a Game Programmer once we did Python programming for our Computer Science class and due to previous experience in the language, I was tasked with making a game through pygame, the excitement I got from making a very simple, but working concoction of a turn based fighting game I will never forget. After this I tried making some games through Unity with C#, which byfar the most fun was when I was able to code.
 
 ## Strengths
 
 <!---
 What are your strengths? What are you good at? Are you good in math? Do you like solving difficult problems? Do you consider yourself a critical thinker? Do you like to work in teams or do you do better as a solo flyer? What will you do to nourish your strengths?
 -->
+
+
 
 ## Weakness
 
@@ -34,9 +34,12 @@ What are you proud of? Have you participated in any sports? Did you win any awar
 
 ## Hobbies
 
-<!---
-What do you like doing in your spare time? What is your favorite video game (right now)? What kind of movies do you like? What kind of music do you like? Where is your favorite vacation spot?
--->
+In my free time I love playing video games, I play a big variety of games. All the way from Indie, to retro to new AAA releases. Currently my favourite games are Zelda (favourite from the series is Skyward Sword HD), World of Warcraft & Overwatch. I also enjoy watching movies and series, My top 3 favourite movies are: 
+1. Star Wars V: The Empire Strikes Back 
+2. The Dark Knight
+3. Avengers: Endgame
+
+Some of my favourite (television) series are The Flash, Avatar (TLA & Korra), Lucifer, Smallville, One Punch Man & The Mandalorian. Next to this I also enjoy streaming & watching on the livestream platform Twitch.
 
 ## Career Goals
 
