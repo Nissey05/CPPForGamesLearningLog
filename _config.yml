@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nils Hendriks"
   avatar           : "404PNF.png"
-  bio              : "Aspiring Programmer & Game Developer"
+  bio              : "Aspiring Game Developer"
   location         : "The Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "@Nissey05"
+  twitter          :  Nissey05
   vine             :
   weibo            :
   xing             :
