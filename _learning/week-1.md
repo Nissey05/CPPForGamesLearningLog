@@ -8,7 +8,7 @@ date: 2023-09-04
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+Introduction & Data Types.
 
 ## Plan
 

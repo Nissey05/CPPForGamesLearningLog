@@ -8,7 +8,7 @@ date: 2023-09-11
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+Pointers, References, Arrays & Classes.
 
 ## Plan
 
