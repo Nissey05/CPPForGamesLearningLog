@@ -8,7 +8,7 @@ date: 2023-10-23
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+autumn break
 
 ## Plan
 
@@ -17,6 +17,8 @@ NOTE: Fill this section in at the beginning of the week!
 
 What do you plan to do this week? What new knowledge do you want to acquire? Do you want to follow any of the learning units for the course? Do you want to work on the assignment for the course? How much time do you estimate you will spend on these tasks?
 -->
+
+Maybe spend a bit coding and finding or creating sprites.
 
 ## Do
 
@@ -27,6 +29,8 @@ What were you actually able to accomplish? Was it more or less than what you pla
 
 Provide as much context as possible. Use code snippets or take screenshots of what you were able to accomplish. Please provide references to any additional sources of information that helped you.
 -->
+
+Ended up being rather busy and not doing much programming.
 
 ## Check
 
@@ -42,6 +46,8 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 NOTE: Any source of feedback is feedback!
 -->
 
+Bad, too busy and couldnt do much while I did want to.
+
 ## Act
 
 <!---
@@ -51,3 +57,5 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
+
+This was unfortunately not fully in my hands and it was autumn break so it was ok.

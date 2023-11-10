@@ -8,7 +8,7 @@ date: 2023-09-18
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+GDD, Functions, Templates and STL
 
 ## Plan
 
