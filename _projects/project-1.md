@@ -1,7 +1,11 @@
 ---
-title: "Project item  1"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "Pinky's Journey"
+excerpt: "2D Platformer called Pinky's Journey<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
-This is an item in your projects portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Pinky's Journey is a game made for the microcredentials course @ Breda University of Applied Sciences (BUAS).  
+  
+The game is made using C++ and no engine such as Unity, it has however been made using the [Software Rasterizer](https://github.com/jpvanoosten/SoftwareRasterizer) By jpvanoosten. 
+
+I have made the game available on both [Github]() and [Itch.io](https://nissey05.itch.io/pinkys-journey)
